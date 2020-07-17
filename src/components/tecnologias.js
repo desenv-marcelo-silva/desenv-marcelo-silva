@@ -26,7 +26,7 @@ const stIconesMargin = {
   ...stIcones,
   marginLeft: 64,
 }
-
+//https://desenv-marcelo-silva.github.io/desenv-marcelo-silva/
 const Tecnologias = () => {
   return (
     <div style={stTecnologia}>
