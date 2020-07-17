@@ -12,15 +12,6 @@ h2.texto {
   color: #555;
 }
 
-img.foto-perfil {
-  width: 280px;
-  height: 280px;
-  border-radius: 140px;
-  margin-top: 32px;
-  margin-bottom: 0;
-  padding: 0;
-}
-
 p {
   text-transform: lowercase;
   color: #555;
@@ -41,48 +32,6 @@ div.nome-funcao p:first-child {
 div.nome-funcao p:last-child {
   font-size: 1.1rem;
   margin-top: 4px;
-}
-
-div.redes-sociais {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-items: center;
-  margin-bottom: 32px;
-}
-
-div.redes-sociais > a > img {
-  background-size: cover;
-  border-radius: 50%;
-}
-
-div.redes-sociais > a > img:last-child {
-  margin-left: 64px;
-}
-
-img {
-  height: 40px;
-  width: 40px;
-  margin: 0 auto;
-}
-
-div.tecnologias {
-  display: flex;
-  flex-direction: row;
-}
-
-div.tecnologias > img:not(:first-child) {
-  margin-left: 24px;
-}
-
-div.tecnologias > img:hover {
-  transform: scale(1.3);
-  transition: transform 0.3s ease-in;
-}
-
-div.tecnologias > img {
-  transform: scale(1);
-  transition: transform 0.3s ease-out;
 }
 
 @media only screen and (max-width: 769px) {
