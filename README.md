@@ -2,19 +2,19 @@
 
 Hi people!!
 
-I'm Marcelo, a.k.a. Marcelo Silva and I'm a javascript developer focused on Web technologies.
+I'm Marcelo, a.k.a. Marcelo Silva and I'm a developer focused on Web technologies, specially Javascript.
 
-I love learn things, TV series, movies, NBA, NFL and our loved soccer in Brasil!!!
+I love learn things, TV series, movies, NBA, NFL and our loved soccer here in Brasil!!!
 
 To be a better fullstack dev I focus on things bellow:
 
-> Javascript and Typescript using Node, React, React Native, Angular, Vue
+> Javascript and Typescript using Node and Angular. More Angular than other things.
 
 > CSS: only css, I'm a frameworkless dev (but, I know about some frameworks)
 
 > Best practices using Relational Databases, clean code and a clean archictecture.
 
-> Some things like bitbucket pipelines, Jenkins and AWS resources.
+> Some things like Bitbucket pipelines, Jenkins and AWS features.
 
 
 That's it!!
